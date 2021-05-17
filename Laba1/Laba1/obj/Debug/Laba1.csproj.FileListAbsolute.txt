@@ -1,0 +1,9 @@
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\olego\Desktop\Михальчук\Laba1\Laba1\obj\Debug\Laba1.pdb
